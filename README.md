@@ -1,6 +1,5 @@
 # ⚡ JobHunter WebWide — Data Analysis Job Search Engine
-
-نسخة مستقلة من JobHunter للبحث الأوسع عن الوظائف عبر الويب (وليس LinkedIn فقط).
+ 
 
 ---
 
